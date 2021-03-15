@@ -1,4 +1,4 @@
-#App de e-commerce com arquitetura de microsserviços
+# App de e-commerce com arquitetura de microsserviços
 Criação de um app de e-commerce utilizando arquitetura de microsserviços para rodar a aplicação
 
 ## Tecnologias utilizadas
