@@ -27,8 +27,7 @@ Criação de um app de e-commerce utilizando arquitetura de microsserviços para
 ### Como a arquitetura foi pensada
 #### Formato do domínio
 <img src="https://github.com/tfalc/ComercioKuber/blob/master/img/arch/01%20-%20ecommerce.png" width=50% height=50%>
-![Domínio]()
 #### Arquitetura do serviço
-![Arquitetura](https://github.com/tfalc/ComercioKuber/blob/master/img/arch/02%20-%20checkout.png)
+<img src="https://github.com/tfalc/ComercioKuber/blob/master/img/arch/02%20-%20checkout.png" width=50% height=50%>
 #### Como o app irá se comunicar
-![Comunicação](https://github.com/tfalc/ComercioKuber/blob/master/img/arch/03%20-%20Comunicacao.png)
+<img src="https://github.com/tfalc/ComercioKuber/blob/master/img/arch/03%20-%20Comunicacao.png" width=50% height=50%>
