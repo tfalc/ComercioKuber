@@ -25,6 +25,6 @@ Criação de um app de e-commerce utilizando arquitetura de microsserviços para
     - Google Pub/Sub
 
 ### Como a arquitetura foi pensada
-[Domínio](img/arch/01 - ecommerce.jpg)
-[Arquitetura](img/arch/02 - checkout.jpg)
-[Comunicação](img/arch/03 - Comunicacao.jpg)
+![Domínio](img/arch/01 - ecommerce.jpg)
+![Arquitetura](img/arch/02 - checkout.jpg)
+![Comunicação](img/arch/03 - Comunicacao.jpg)
