@@ -1,4 +1,4 @@
-#App de e-commerce com arquitetura de microsserviços
+# App de e-commerce com arquitetura de microsserviços
 Criação de um app de e-commerce utilizando arquitetura de microsserviços para rodar a aplicação
 
 ## Tecnologias utilizadas
@@ -25,6 +25,11 @@ Criação de um app de e-commerce utilizando arquitetura de microsserviços para
     - Google Pub/Sub
 
 ### Como a arquitetura foi pensada
-[Domínio](img/arch/01 - ecommerce.jpg)
-[Arquitetura](img/arch/02 - checkout.jpg)
-[Comunicação](img/arch/03 - Comunicacao.jpg)
+#### Formato do domínio
+<img src="https://github.com/tfalc/ComercioKuber/blob/master/img/arch/01%20-%20ecommerce.png" width=50% height=50% />
+
+#### Arquitetura do serviço
+<img src="https://github.com/tfalc/ComercioKuber/blob/master/img/arch/02%20-%20checkout.png" width=50% height=50% />
+
+#### Como o app irá se comunicar
+<img src="https://github.com/tfalc/ComercioKuber/blob/master/img/arch/03%20-%20Comunicacao.png" width=50% height=50% />
